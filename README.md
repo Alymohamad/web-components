@@ -5,15 +5,15 @@ Web components Blog - Web Engineering Wahlpflichtmodul
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 
-[What are Web Components?](#What are Web Components?)
-[Why use Web Components?](#Whyuse?)
-[Overview of Web Components](#Overview of Web Components)
-[How do I use Web Components?](#How do I use Web Components?)
-[Compatibility of Web Components with different browser versions](#Compatibility of Web Components with different browser versions)
-[Libraries, templates and examples for Web Components](#Libraries, templates and examples for Web Components)
+[What are Web Components?](#Whatare)
+[Why use Web Components?](#Whyuse)
+[Overview of Web Components](#Overview)
+[How do I use Web Components?](#Howuse)
+[Compatibility of Web Components with different browser versions](#Compatibility)
+[Libraries, templates and examples for Web Components](#Libraries)
 
 <a name="headers"/>
 ## Headers
 
-<a name="What are Web Components?"/>
+<a name="Whatare"/>
 ## What are Web Components?
