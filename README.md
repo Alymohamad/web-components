@@ -9,12 +9,7 @@ Web components Blog - Web Engineering Wahlpflichtmodul
 * [Overview of Web Components](#overview)  
 * [How do I use Web Components?](#howuse)   
 * [Compatibility of Web Components with different browser versions](#compatibility)  
-* [Libraries, templates and examples for Web Components](#libraries)  
+* [Libraries, templates and examples for Web Components](#libraries)
 
-<a name="headers"/>   
-## Table of Contents  
-
-
-<a name="whatare"/>   
 # web-components
 Web components Blog - Web Engineering Wahlpflichtmodul
