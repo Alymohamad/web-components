@@ -12,7 +12,4 @@ Web components Blog - Web Engineering Wahlpflichtmodul
 [Libraries, templates and examples for Web Components](#Libraries)  
 
 <a name="headers"/>   
-## Headers    
-
-<a name="Whatare"/>   
-## What are Web Components?   
+## Headers
