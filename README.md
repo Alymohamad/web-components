@@ -4,7 +4,6 @@ Web components Blog - Web Engineering Wahlpflichtmodul
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
-
 [What are Web Components?](#Whatare)
 [Why use Web Components?](#Whyuse)
 [Overview of Web Components](#Overview)
