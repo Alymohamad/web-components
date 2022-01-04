@@ -16,4 +16,5 @@ Web components Blog - Web Engineering Wahlpflichtmodul
 
 
 <a name="whatare"/>   
-# # What are Web Components
+# web-components
+Web components Blog - Web Engineering Wahlpflichtmodul
