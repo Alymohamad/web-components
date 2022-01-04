@@ -6,7 +6,7 @@ Web components Blog - Web Engineering Wahlpflichtmodul
 [Emphasis](#emphasis)  
 
 [What are Web Components?](#What are Web Components?)
-[Why use Web Components?](#Why use Web Components?)
+[Why use Web Components?](#Whyuse?)
 [Overview of Web Components](#Overview of Web Components)
 [How do I use Web Components?](#How do I use Web Components?)
 [Compatibility of Web Components with different browser versions](#Compatibility of Web Components with different browser versions)
