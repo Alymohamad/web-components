@@ -13,3 +13,7 @@ Web components Blog - Web Engineering Wahlpflichtmodul
 
 <a name="headers"/>   
 ## Table of Contents  
+
+
+<a name="whatare"/>   
+## What are Web Components
